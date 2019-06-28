@@ -13,10 +13,10 @@ Learn the Flexbox XY Grid - https://zurb.com/university/lessons/learn-the-flexbo
 
 ## Coding Guidelines
 
-**Framework** - You must use the Foundation XY Grid.
-**SASS** -  Styles need to be written with SASS
-**Responsive** - The website must be responsive and match the supplied design files.
-**Mobile First** - You must take a “mobile-first” approach.
+1. **Framework** - You must use the Foundation XY Grid.
+2. **SASS** -  Styles need to be written with SASS
+3. **Responsive** - The website must be responsive and match the supplied design files.
+4. **Mobile First** - You must take a “mobile-first” approach.
 
 ## Coding Challenge
 
