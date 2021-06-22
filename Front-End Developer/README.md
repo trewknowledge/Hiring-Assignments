@@ -23,7 +23,7 @@ Learn the Flexbox XY Grid - https://zurb.com/university/lessons/learn-the-flexbo
 
 First, download the design files located [here](https://github.com/trewknowledge/Hiring-Assignments/blob/master/Front-End%20Developer/Assets.zip).
 
-Within these two templates there are additional components such as modals, dropdowns, and accordions. You can write these components using jQuery and SASS.
+Within the templates there are additional components such as modals, dropdowns, and accordions. You can write these components using jQuery and SASS.
 
 ## Challenge Completed?
 Please send us a link to your GitHub repository where we can download your website.
